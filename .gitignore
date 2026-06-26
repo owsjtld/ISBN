@@ -2,6 +2,11 @@
 .env
 .venv/
 
+# uv / 프로젝트 설정
+uv.lock
+pyproject.toml
+.python-version
+
 # Python
 __pycache__/
 *.pyc
