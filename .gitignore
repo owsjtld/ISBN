@@ -1,0 +1,26 @@
+# 환경 및 키
+.env
+.venv/
+
+# Python
+__pycache__/
+*.pyc
+
+# PyInstaller
+build/
+dist/
+*.spec
+
+# 데이터 파일
+*.xlsx
+order.txt
+
+# 사용 안 하는 스크립트
+xlsxmacro.py
+main.py
+domain.py
+domainout.py
+domainsorting.py
+실행.bat
+build_exe.bat
+launcher.py
